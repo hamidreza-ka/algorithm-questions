@@ -54,7 +54,7 @@ public class TwoSum {
 
 
     /**
-     * two sum with Map
+     * Recommended approach - two sum with Map
      * @param nums
      * @param target
      * @return
